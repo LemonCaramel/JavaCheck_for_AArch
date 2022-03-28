@@ -13,5 +13,5 @@ How to use (MultiMC)
 --------
 Repeat this process whenever MultiMC is updated.
 
-1. Download the artifact.
+1. [Download the artifact](https://github.com/LemonCaramel/JavaCheck_for_AArch/releases/download/release/JavaCheck.jar).
 2. Replace **JavaCheck.jar** for the following path: `MultiMC.app/Contents/MacOS/jars/`
